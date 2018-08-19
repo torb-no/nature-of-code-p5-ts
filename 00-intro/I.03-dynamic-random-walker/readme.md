@@ -6,4 +6,4 @@ In this sketch the walker avoids the mouse. If it is too close it will dramatica
 
 [Link](http://natureofcode.com/book/introduction/#intro_exercise3)
 
-(img.png)
+![screenshot](img.png)
