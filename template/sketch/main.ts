@@ -1,4 +1,4 @@
-const sketch = (p :p5) => {
+const p = new p5( (p :p5) => {
 
 	p.setup = () => {
 		p.createCanvas(500, 500);
@@ -9,6 +9,4 @@ const sketch = (p :p5) => {
 		p.ellipse(p.mouseX, p.mouseY, 20);
 	}
 
-}
-
-new p5(sketch);
+});
