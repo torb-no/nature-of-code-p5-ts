@@ -1,7 +1,7 @@
-# Intro - Exercise I.1
+# Intro - Exercise I.5
 
-> Create a random walker that has a tendency to move down and to the right.
+> A Gaussian random walk is defined as one in which the step size (how far the object moves in a given direction) is generated with a normal distribution. Implement this variation of our random walk.
 
-[Link](http://natureofcode.com/book/introduction/#intro_exercise1)
+[Link](http://natureofcode.com/book/introduction/#intro_exercise5)
 
 ![Screenshot](img.png)
