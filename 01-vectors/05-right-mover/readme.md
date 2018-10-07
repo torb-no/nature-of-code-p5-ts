@@ -1,4 +1,4 @@
-# Vectors - Exercise 1.4
+# Vectors - Exercise 1.5
 
 > Create a simulation of a car (or runner) that accelerates when you press the up key and brakes when you press the down key.
 
