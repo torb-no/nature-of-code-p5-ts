@@ -6,4 +6,4 @@ Circle accelerates towards mouse.
 
 [Link](http://natureofcode.com/book/chapter-1-vectors/#chapter01_exercise8)
 
-![Screenshot](image.png)
+![Screenshot](img.png)
