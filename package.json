@@ -1,0 +1,28 @@
+{
+  "name": "nature-of-code-p5-ts",
+  "version": "1.0.0",
+  "description": "This is my attempt at doing the exercises from Daniel Shiffman’s excellent book: [The Nature of Code](http://natureofcode.com) in [p5.js](https://p5js.org) and [TypeScript](https://www.typescriptlang.org). Reading it and working through the exercises seems like a great way to learn about how to use algorithms inspired by natural phenonema to create interactive visual software.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./exercises/*/*/index.html --no-hmr",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torbjornlunde/nature-of-code-p5-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torbjornlunde/nature-of-code-p5-ts/issues"
+  },
+  "homepage": "https://github.com/torbjornlunde/nature-of-code-p5-ts#readme",
+  "devDependencies": {
+    "@types/p5": "^0.7.2",
+    "parcel-bundler": "^1.11.0",
+    "typescript": "^3.3.3333"
+  },
+  "dependencies": {
+    "p5": "^0.7.3"
+  }
+}
